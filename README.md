@@ -1,6 +1,6 @@
-GACD_Coursera
-====
 Coursera Course Project : Getting and Cleaning Data (Johns Hopkins)
+====
+Readme
 ----
 This repository contains : 
 * A script(run_analysis.R) that performs all the steps as required
