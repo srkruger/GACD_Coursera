@@ -23,7 +23,7 @@ The second data set contains a record for each unique combination of subject and
 
 Variable Descriptions
 ----
-Information on each variable in both data sets follow. Where applicable, summary statistics are included.
+Information on each variable follow. 
 
 Variable names preceded with 'm' denote variables measuring a mean value. Similarly, variable names preceded with 's' denote variables measuring a standard deviation value.
 
@@ -34,266 +34,274 @@ Where applicable, variable names ending in either '_X', '_Y', or '_Z' denote a m
 ***
 Variable Name : mtBodyAcc_X  
 Description : Mean of the body linear acceleration along the X axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mtBodyAcc_Y  
 Description : Mean of the body linear acceleration along the Y axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mtBodyAcc_Z  
 Description : Mean of the body linear acceleration along the Z axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mtGravityAcc_X  
 Description : Mean of the gravitational linear acceleration along the X axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mtGravityAcc_Y  
 Description : Mean of the gravitational linear acceleration along the Y axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mtGravityAcc_Z  
 Description : Mean of the gravitational linear acceleration along the Z axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mtBodyAccJerk_X  
 Description : Mean of the body linear acceleration jerk along the X axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mtBodyAccJerk_Y  
 Description : Mean of the body linear acceleration jerk along the Y axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mtBodyAccJerk_Z  
 Description : Mean of the body linear acceleration jerk along the Z axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mtBodyGyro_X  
 Description : Mean of the body angular velocity along the X axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mtBodyGyro_Y  
 Description : Mean of the body angular velocity along the Y axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mtBodyGyro_Z  
 Description : Mean of the body angular velocity along the Z axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mtBodyGyroJerk_X  
 Description : Mean of the body angular velocity jerk along the X axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mtBodyGyroJerk_Y  
 Description : Mean of the body angular velocity jerk along the Y axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mtBodyGyroJerk_Z  
 Description : Mean of the body angular velocity jerk along the Z axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mtBodyAccMag  
 Description : Mean of the body linear acceleration magnitude (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mtGravityAccMag  
 Description : Mean of the gravitational linear acceleration magnitude (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mtBodyAccJerkMag  
 Description : Mean of the body linear acceleration jerk magnitude (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mtBodyGyroMag  
 Description : Mean of the body angular velocity magnitude (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mtBodyGyroJerkMag  
 Description : Mean of the body angular velocity jerk magnitude (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mfBodyAcc_X  
 Description : Mean of the body linear acceleration along the X axis (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mfBodyAcc_Y  
 Description : Mean of the body linear acceleration along the Y axis (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mfBodyAcc_Z  
 Description : Mean of the body linear acceleration along the Z axis (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mfBodyAccJerk_X  
 Description : Mean of the body linear acceleration jerk along the X axis (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mfBodyAccJerk_Y  
 Description : Mean of the body linear acceleration jerk along the Y axis (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mfBodyAccJerk_Z  
 Description : Mean of the body linear acceleration jerk along the Z axis (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mfBodyGyro_X  
 Description : Mean of the body angular velocity along the X axis (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mfBodyGyro_Y  
 Description : Mean of the body angular velocity along the Y axis (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mfBodyGyro_Z  
 Description : Mean of the body angular velocity along the Z axis (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mfBodyAccMag  
 Description : Mean of the body linear acceleration magnitude (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mfBodyAccJerkMag  
 Description : Mean of the body linear acceleration jerk magnitude (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mfBodyGyroMag  
 Description : Mean of the body angular velocity magnitude (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : mfBodyGyroJerkMag  
 Description : Mean of the body angular velocity jerk magnitude (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : stBodyAcc_X  
 Description : Standard Deviation of the body linear acceleration along the X axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : stBodyAcc_Y  
 Description : Standard Deviation of the body linear acceleration along the Y axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : stBodyAcc_Z  
 Description : Standard Deviation of the body linear acceleration along the Z axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : stGravityAcc_X  
 Description : Standard Deviation of the gravitational linear acceleration along the X axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : stGravityAcc_Y  
 Description : Standard Deviation of the gravitational linear acceleration along the Y axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : stGravityAcc_Z  
 Description : Standard Deviation of the gravitational linear acceleration along the Z axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : stBodyAccJerk_X  
 Description : Standard Deviation of the body linear acceleration jerk along the X axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : stBodyAccJerk_Y  
 Description : Standard Deviation of the body linear acceleration jerk along the Y axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : stBodyAccJerk_Z  
 Description : Standard Deviation of the body linear acceleration jerk along the Z axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : stBodyGyro_X  
 Description : Standard Deviation of the body angular velocity along the X axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : stBodyGyro_Y  
 Description : Standard Deviation of the body angular velocity along the Y axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : stBodyGyro_Z  
 Description : Standard Deviation of the body angular velocity along the Z axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : stBodyGyroJerk_X  
 Description : Standard Deviation of the body angular velocity jerk along the X axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : stBodyGyroJerk_Y  
 Description : Standard Deviation of the body angular velocity jerk along the Y axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : stBodyGyroJerk_Z  
 Description : Standard Deviation of the body angular velocity jerk along the Z axis (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : stBodyAccMag  
 Description : Standard Deviation of the body linear acceleration magnitude (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : stGravityAccMag  
 Description : Standard Deviation of the gravitational linear acceleration magnitude (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : stBodyAccJerkMag  
 Description : Standard Deviation of the body linear acceleration jerk magnitude (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : stBodyGyroMag  
 Description : Standard Deviation of the body angular velocity magnitude (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : stBodyGyroJerkMag  
 Description : Standard Deviation of the body angular velocity jerk magnitude (time domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : sfBodyAcc_X  
 Description : Standard Deviation of the body linear acceleration along the X axis (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : sfBodyAcc_Y  
 Description : Standard Deviation of the body linear acceleration along the Y axis (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : sfBodyAcc_Z  
 Description : Standard Deviation of the body linear acceleration along the Z axis (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : sfBodyAccJerk_X  
 Description : Standard Deviation of the body linear acceleration jerk along the X axis (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : sfBodyAccJerk_Y  
 Description : Standard Deviation of the body linear acceleration jerk along the Y axis (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : sfBodyAccJerk_Z  
 Description : Standard Deviation of the body linear acceleration jerk along the Z axis (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : sfBodyGyro_X  
 Description : Standard Deviation of the body angular velocity along the X axis (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : sfBodyGyro_Y  
 Description : Standard Deviation of the body angular velocity along the Y axis (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : sfBodyGyro_Z  
 Description : Standard Deviation of the body angular velocity along the Z axis (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : sfBodyAccMag  
 Description : Standard Deviation of the body linear acceleration magnitude (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : sfBodyAccJerkMag  
 Description : Standard Deviation of the body linear acceleration jerk magnitude (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : sfBodyGyroMag  
 Description : Standard Deviation of the body angular velocity magnitude (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
 ***
 Variable Name : sfBodyGyroJerkMag  
 Description : Standard Deviation of the body angular velocity jerk magnitude (frequency domain)  
-Summary statistics :  
+Values : [-1,1]  
+***
+Variable Name : subject  
+Description : Id of the subject involved in the experiment  
+Values : [1,30]  
+***
+Variable Name : activity  
+Description : Factor variable indicating an action performed by a subject  
+Values : WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 ***
 

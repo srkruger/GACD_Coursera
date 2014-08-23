@@ -116,9 +116,9 @@ write.table(file="tidy_data1.txt", x=tidy_data1, row.names=FALSE)
 #######################################################################
 
 #aggregate over all features in tidy_data1 except subject and activity, using the mean function,
-#grouping by subject and activity. Use different names for the group by features to avoid confusion
+#grouping by subject and activity.
 tidy_data2 <- aggregate(x=tidy_data1[,1:66], 
-                        by=list("forSubject"=tidy_data1$subject, "forActivity"=tidy_data1$activity), 
+                        by=list("subject"=tidy_data1$subject, "activity"=tidy_data1$activity), 
                         FUN=mean)
 
 #write the data set to file

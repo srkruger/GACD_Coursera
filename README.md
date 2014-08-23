@@ -5,6 +5,7 @@ Readme
 This repository contains : 
 * A script(run_analysis.R) that performs all the steps as required
 * A code book(CodeBook.md) that describes the data and all the work done on the data
+* This readme 
 
 The data used for the course project can be found [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
